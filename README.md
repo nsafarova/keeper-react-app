@@ -1,2 +1,3 @@
-# keeper-react-app
-Created with CodeSandbox
+"Keeper" Note-taking app written in React
+
+
